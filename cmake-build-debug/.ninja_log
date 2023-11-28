@@ -1,0 +1,6 @@
+# ninja log v5
+744	1005	7228344275067499	discussion9.exe	17be5599a496472a
+0	762	7228344067351505	CMakeFiles/discussion9.dir/main.cpp.obj	70603400fd968452
+22	743	7228344272591311	CMakeFiles/discussion9.dir/BinaryTree.cpp.obj	fe099a25a1762efa
+13	68	7228479425461368	CMakeFiles/discussion9.dir/BinarySearchTree.cpp.obj	89e6c7c39134a30f
+0	207	7228483296346601	build.ninja	f4578de95b11dc33
